@@ -12,7 +12,7 @@ Dzięki zgłoszeniu tematu dowiesz się, jakie szczegóły problemu interesują 
 Czas trwania prezentacji to max 10 min. Czym jest lightning talk możesz spokojnie przeczytać w [wiki](https://en.wikipedia.org/wiki/Lightning_talk)
 
 ### Ważne
-Label "prezentacja" lub "lightning talk" do "issue" jest usawiana przez administratora repozytorium po wstępnej weryfikacji. 
+Label "prezentacja" lub "lightning talk" do "issue" jest ustawiana przez administratora repozytorium po wstępnej weryfikacji. 
 
 
 # EN
