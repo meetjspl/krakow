@@ -1,3 +1,7 @@
+---
+title: <Title> [EN/PL] [Duration]  
+---
+
 # Title: The Lorem ipsum presentation
 ### Duration: 40 min
 
