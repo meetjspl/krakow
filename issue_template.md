@@ -1,5 +1,5 @@
 ---
-title: <Title> [EN/PL] [Duration]  
+title: 'Title [EN/PL] [Duration]'  
 ---
 
 # Title: The Lorem ipsum presentation
