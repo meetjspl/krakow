@@ -7,13 +7,13 @@ title: 'EN/PL - Title - Duration'
 
 ### Type: 
 
-  - [x] Presentation (from 25 min to 40 min)
+  - [ ] Presentation (from 25 min to 40 min)
   - [ ] Lightning talk (from 5 min to 15 min)
 
 ### Language:
   
   - [ ] Polish
-  - [x] English
+  - [ ] English
 
 ### Description:
 ```
