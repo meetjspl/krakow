@@ -24,6 +24,8 @@ Lorem ipsum...
 
 ```
 
+  - [ ] I've read the [README Promotion section](https://github.com/meetjspl/krakow)
+
 # Author information
 
 ### Name: Kowalski Jan
@@ -31,7 +33,6 @@ Lorem ipsum...
 ### Bio ( max 200 words):
 ```
 Lorem ipsum
-
 
 
 
