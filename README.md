@@ -14,6 +14,15 @@ Czas trwania prezentacji to max 10 min. Czym jest lightning talk możesz spokojn
 ### Ważne
 Label "presentation" lub "lightning talk" do "issue" jest ustawiana przez administratora repozytorium po wstępnej weryfikacji. 
 
+### Kodeks Postępowania
+
+[berlincodeofconduct.org](https://berlincodeofconduct.org/pl/)
+
+### Promocja
+
+* Wspomnienie gdzie się pracuje jest OK
+* Rekrutacja lub/i mowienie przez 5 min o swoim pracodawcy (ktory nie jest sponsorem) NIE jest OK!
+
 
 # EN
 
@@ -30,3 +39,12 @@ The duration of the presentation is max 10 min. What is lightning talk you can r
 ### Important note
 
 The "presentation" or "lightning talk" label for "issue" is set by the repository administrator after initial verification.
+
+### Code Of Conduct
+
+[berlincodeofconduct.org](https://berlincodeofconduct.org/)
+
+### Promotion
+
+* Mentioning where you work is OK
+* Recruiting or spending 5 min on your company/employer is NOT OK!
