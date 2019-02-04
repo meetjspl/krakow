@@ -46,4 +46,9 @@ Lorem ipsum
   - Twitter:
   - GitHub: 
   
-  
+# When I'm available:
+
+* eg.
+* Full February except 14th-19th
+* First part of March
+* I would prefer February
