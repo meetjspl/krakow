@@ -26,7 +26,7 @@ Lorem ipsum...
 
   - [ ] I've read the [README Promotion section](https://github.com/meetjspl/krakow)
   - [ ] I allow for my name/image/email to be used to promote the meetup
-  - [ ] I promise to share my presentatio later publictly here and in a comment on meetup.com
+  - [ ] I promise to share my presentation later publicly here and in a comment on meetup.com
 
 # Author information
 
